@@ -1,0 +1,24 @@
+{
+  "name": "JS playground",
+  "version": "1.0.0",
+  "description": "Trying out random features of JS",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAsifAdnan/js.git"
+  },
+  "author": "Asif Adnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadAsifAdnan/js/issues"
+  },
+  "homepage": "https://github.com/MuhammadAsifAdnan/js#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
