@@ -69,6 +69,7 @@ another nice use-case of block scoping is to wrap a block around let. cause im s
 Only use const with primitive/immutables
 
 # Hoisting
+-its not a real thing. JS engine does not hoist, it does not move around things. english metaphor that we discovered the idea of lexical scoping, without thinking about lexical scoping. 
 JS code execution process-> two steps
 first pass -> compilation (parsing)
 second pass -> execution
@@ -297,3 +298,5 @@ An object is a collection of related data and/or functionality. These usually co
 ## Inheritance vs Behavior Delegation
     (OO vs OLOO)
 
+
+## tagged function
